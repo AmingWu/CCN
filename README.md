@@ -14,5 +14,5 @@ The goal of visual neuron connectivity is to obtain a global representation of a
 We used pytorch 1.1.0, python 3.6, and CUDA 9.0 for this project. Before using this code, you should download VCR dataset from this link, i.e., https://visualcommonsense.com/. Follow the steps given by the link, i.e., https://github.com/rowanz/r2c/, to set up the running environment.
 
 ## Training and Validation
-export CUDA_VISIBLE_DEVICES=0,1,2
+export CUDA_VISIBLE_DEVICES=0,1,2    
 python train.py -params multiatt/default.json -folder saves/flagship_answer
