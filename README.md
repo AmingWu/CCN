@@ -9,3 +9,5 @@ Visual commonsense reasoning (VCR) has been introduced to boost research of cogn
 The goal of visual neuron connectivity is to obtain a global representation of an image, which is helpful for a thorough understanding of visual content. It mainly includes visual element connectivity and the computation of both conditional centers and GraphVLAD.
 
 ![Visual Neuron Connectivity](https://github.com/AmingWu/CCN/blob/master/pic/fig3.png?raw=true "Illustration of Visual Neuron Connectivity")
+
+## Setting Up and Data Preparation
