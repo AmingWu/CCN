@@ -11,3 +11,4 @@ The goal of visual neuron connectivity is to obtain a global representation of a
 ![Visual Neuron Connectivity](https://github.com/AmingWu/CCN/blob/master/pic/fig3.png?raw=true "Illustration of Visual Neuron Connectivity")
 
 ## Setting Up and Data Preparation
+We used pytorch 1.1.0, python 3.6, and CUDA 9.0 for this project. 
