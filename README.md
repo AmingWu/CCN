@@ -22,6 +22,7 @@ python train.py -params multiatt/default.json -folder saves/flagship_answer
 @incollection{NIPS2019_8804,
 title = {Connective Cognition Network for Directional Visual Commonsense Reasoning},
 author = {Wu, Aming and Zhu, Linchao and Han, Yahong and Yang, Yi},
-booktitle = {Advances in Neural Information Processing Systems 32}
+booktitle = {Advances in Neural Information Processing Systems 32},
+url = {http://papers.nips.cc/paper/8804-connective-cognition-network-for-directional-visual-commonsense-reasoning.pdf}
 }
 ```
